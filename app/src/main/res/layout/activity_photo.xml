@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="0.1dp"
+              android:layout_height="0.1dp">
+
+    <SurfaceView
+        android:layout_width="0.1dp"
+        android:layout_height="0.1dp"
+        android:id="@+id/surface_view"/>
+
+</LinearLayout>
